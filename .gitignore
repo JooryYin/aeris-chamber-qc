@@ -1,0 +1,5 @@
+# Raw instrument data is not published in this repository
+data/
+*.txt
+*.csv
+*.xlsx
