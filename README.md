@@ -146,8 +146,7 @@ chamber volume, area, temperature and pressure.
 
 ## Data availability
 
-Raw instrument files and field logs are not included in this repository. The scripts expect the
-original Aeris `.txt` exports (53 comma-separated columns, header in line 1).
+Raw instrument files are not included in this repository. The transcribed field logs (closure start times and notes) are in sql/05_field_log_20240529.sql and sql/06_field_log_20240612.sql.
 
 ## Author
 
